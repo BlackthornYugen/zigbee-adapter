@@ -77,6 +77,8 @@
               "id": "dfb8233b-36de-43c6-bfea-ce6963012f79",
               "z": 3,
               "hasOpenThreats": false,
+              "storesCredentials": true,
+              "outOfScope": false,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
